@@ -5,11 +5,12 @@ A simple tool which converts News and updates from the Indian
 various integrations (like feed readers, bots)
 
 Feed URL (refreshed every 12 hours):
-[https://kskarthik.github.io/gstfeed/feed.xml](https://kskarthik.github.io/gstfeed/feed.xml)
+[https://ibrahimshaik5403-ui.github.io/gstfeed/feed.xml](https://ibrahimshaik5403-ui.github.io/gstfeed/feed.xml)
 
-![image](https://github.com/user-attachments/assets/d4dbd40c-399b-4155-8694-cc77f588e0bc)
+Originally created by [kskarthik](https://github.com/kskarthik/gstfeed).
 
 # Installation
+
 
 ## Build Requirements
 

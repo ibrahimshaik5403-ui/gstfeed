@@ -7,7 +7,7 @@ various integrations (like feed readers, bots)
 Feed URL (refreshed every 12 hours):
 [https://ibrahimshaik5403-ui.github.io/gstfeed/feed.xml](https://ibrahimshaik5403-ui.github.io/gstfeed/feed.xml)
 
-Originally created by [kskarthik](https://github.com/kskarthik/gstfeed).
+
 
 # Installation
 
